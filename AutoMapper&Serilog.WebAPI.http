@@ -1,0 +1,6 @@
+@AutoMapper_Serilog.WebAPI_HostAddress = http://localhost:5111
+
+GET {{AutoMapper_Serilog.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
